@@ -23,7 +23,7 @@ function App() {
             <tr>
               <th>Foto</th>
               <th>Name</th>
-              <th>Apellido</th>
+              <th>Apellidos</th>
               <th>Pais</th>
               <th>Accion</th>
 
